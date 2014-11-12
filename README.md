@@ -1,4 +1,4 @@
-MapBug-Bot
+State Phonebook Scraper
 ==========
 
-Create basic locator maps for OWH stories.
+Scrape Nebraska's <a href='https://ne-phonebook.ne.gov/PhoneBook/faces/welcome.jsp'>state government phone directory</a>.
